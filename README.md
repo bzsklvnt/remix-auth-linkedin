@@ -2,6 +2,17 @@
 
 The Linkedin strategy is used to authenticate users against a Linkedin account. It extends the [OAuth2Strategy](https://github.com/sergiodxa/remix-auth-oauth2).
 
+## Attribution and Acknowledgments
+This project is a fork of [remix-auth-linkedin](https://github.com/Lzok/remix-auth-linkedin) by [juhanakristian](https://github.com/Lzok). We are immensely grateful to the original authors for their hard work and dedication in creating a foundation that has inspired our version. Our modifications and extensions are built upon the robust groundwork they established.
+
+For details about the original project and its features, please visit the Original Repository.
+
+We aim to respect the original vision while also adding our unique contributions, which are documented in our changelog and release notes. Our project follows the licensing terms set forth in the original, adhering to the principles of open-source collaboration and mutual respect for the creators' efforts.
+
+We encourage users and contributors to also explore the original repository to understand the origins of this project and appreciate the collective effort involved in its ongoing development.
+
+In this version we aimed to make changes, so that this project is compatible with @remix-run/server-runtime v2 >.
+
 ## Supported runtimes
 
 | Runtime    | Has Support |
